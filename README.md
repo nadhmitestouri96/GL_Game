@@ -232,7 +232,7 @@ To get the top played game by total players play time
  can be used without options. 
 https://localhost:7000/api/JL_Game/select_top_by_playtime
 
-Result:
+
  
 Can be used with only genre option:
 
